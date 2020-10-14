@@ -1,0 +1,9 @@
+Mouse TCR Parameters, Index starting at 1
+For Full TCR, One ITAM = One binding site
+
+Filament 0: Epsilon, N = 55, iSites at 42
+Filament 1: Delta, N = 47, iSites at 29
+Filament 2: Zeta, N = 113, iSites at 27, 66, 97
+Filament 3: Zeta, N = 113, iSites at 27, 66, 97
+Filament 4: Gamma, N = 45, iSites at 29
+Filament 5: Epsilon, N = 55, iSites at 42
