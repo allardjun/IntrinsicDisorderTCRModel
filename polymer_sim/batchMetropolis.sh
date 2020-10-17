@@ -37,10 +37,13 @@ wait
 
 echo "Done waiting for processes to finish."
 
+# copy occupied site file to output folder
+cp OccupiediSitesZeta.txt ../data/.
+
 # loop through all files, concatenate them into one file
 for ((IT=1; IT<=$TOTALITERATIONS; IT++))
 do
 
-cat $OUTPUTFILENAME.$IT >> $OUTPUTFILENAME.cat
+  cat $OUTPUTFILENAME.$IT >> $OUTPUTFILENAME.cat
 
 done
