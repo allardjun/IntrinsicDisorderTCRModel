@@ -17,4 +17,4 @@ make
 
 * In `analysis/`, run Matlab m-file `Plot_UnweightedAverageBindingRateVSNumBind.m`
 
-This generates Figures S1 and S2 from Clemens et al.,
+This generates Figures S1 and S3 from Clemens et al.. 
