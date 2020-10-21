@@ -1,5 +1,6 @@
 # Script to run single parameter set for all phosphostates
 
+rm -R ../data/* # remove any previous data
 #####################################################
 # Choose how much stiffening per side of binding site
 STIFFENRANGE=5 # -1 means don't stiffen
