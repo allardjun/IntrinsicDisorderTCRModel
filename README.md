@@ -15,6 +15,6 @@ make
 
 * This script runs 64 simulations in parallel and takes about 2 hours on a 1.6 GHz Dual-Core Intel Core i5.
 
-* In `data/`, run Matlab m-file `Plot_UnweightedAverageBindingRateVSNumBind.m`
+* In `analysis/`, run Matlab m-file `Plot_UnweightedAverageBindingRateVSNumBind.m`
 
 This generates Figures S1 and S2 from Clemens et al.,
